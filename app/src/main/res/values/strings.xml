@@ -1,0 +1,227 @@
+<resources>
+    <string name="app_name">BU GO</string>
+    <string name="hyperlink">Please click on Contact Us below, our team(pi*14/22) will reach you shortly.<a href="https://docs.google.com/forms/d/e/1FAIpQLSeV8HCapC0fVA-xp9A9x4lbmKcR1lUYUFwntgp0j2i2DoewsA/viewform?usp=sf_link"> or click here</a></string>
+    <string-array name="Days">
+        <item>Today</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string-array name="Days2">
+        <item>Select Day</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+    <string-array name="FName">
+        <item>Select Faculty</item>
+        <item>AADI JAIN (STA)</item>
+        <item>Adarsh Shandilya (STA)</item>
+        <item>Aditya Bhardwaj</item>
+        <item>Aditya Sharma (STA)</item>
+        <item>AJAY YADAV (PHD)</item>
+        <item>Akansha Singh</item>
+        <item>Akshat Rastogi (STA)</item>
+        <item>Amaan Khan (STA)</item>
+        <item>Ambrish [EE]</item>
+        <item>Amit Kumar</item>
+        <item>Amit Pandey</item>
+        <item>AMIT SHARMA (PHD)</item>
+        <item>Anika</item>
+        <item>Anjum Mohd Aslam (PHD)</item>
+        <item>Ankit Pandey [EE]</item>
+        <item>Ankur Gupta</item>
+        <item>Ankur Maurya</item>
+        <item>Ankush Goyal</item>
+        <item>ANMOL KALONI (STA)</item>
+        <item>Anshika Arora</item>
+        <item>Anu Rani</item>
+        <item>Anuj Bharti</item>
+        <item>Anurag Goswami</item>
+        <item>Argha Debnath</item>
+        <item>Arishmit Ghosh (STA)</item>
+        <item>Arnav Tyagi (STA)</item>
+        <item>Arun Kumar (LAB)</item>
+        <item>Arun Kumar-1</item>
+        <item>Aryan Solanki (STA)</item>
+        <item>Ashima Yadav</item>
+        <item>Ashish Kumar (PHD)</item>
+        <item>Ashish Kumar1</item>
+        <item>Ashutosh Srivastava</item>
+        <item>Atindra Shekhar (STA)</item>
+        <item>Atul Kumar Sharma</item>
+        <item>Atul Kumar Srivastava</item>
+        <item>Ayan Khan</item>
+        <item>Ayushi Verma (PHD)</item>
+        <item>Bharti Rawat</item>
+        <item>BHOOPENDRA KUMAR (PHD)</item>
+        <item>Brijendra Pratap Singh</item>
+        <item>Chanchal Kumar</item>
+        <item>Chandra Shekhar Ram</item>
+        <item>Debjani Ghosh</item>
+        <item>Deepak Garg</item>
+        <item>Deepanshi</item>
+        <item>Deepika Pantola</item>
+        <item>Deepika Vatsa</item>
+        <item>Dev Kumar Chaudhary</item>
+        <item>Deval Verma</item>
+        <item>Devmalya</item>
+        <item>Dharvi Mittal (STA)</item>
+        <item>DIBYANARAYAN HAZRA (PHD)</item>
+        <item>DIKSHANT DWIVEDI (STA)</item>
+        <item>Dinesh Prasad Sahu</item>
+        <item>Divya Kumari</item>
+        <item>Divya Singh</item>
+        <item>Divya Srivastava</item>
+        <item>Garima Jaiswal</item>
+        <item>Gaurav Kumar</item>
+        <item>Ghazaala Yasmin</item>
+        <item>Gitika Sharma</item>
+        <item>Gopinath Sahoo</item>
+        <item>Gumma Shvetanshu (STA)</item>
+        <item>Hardeo Kumar Thakur</item>
+        <item>Hari Mohan Gaur</item>
+        <item>Harshita Agrawal</item>
+        <item>Hemant Petwal</item>
+        <item>Himanshu Srivastava</item>
+        <item>Indrajeet Gupta</item>
+        <item>Isha Ganguly</item>
+        <item>Ishan Budhiraja</item>
+        <item>Jagendra Singh</item>
+        <item>Jinee Goyal</item>
+        <item>Jyoti Kashniyal</item>
+        <item>K K Biswas</item>
+        <item>Kajal kansal</item>
+        <item>KANAV ARORA (STA)</item>
+        <item>Kapil Juneja</item>
+        <item>Ketan Rathod</item>
+        <item>Khagendra Nath Gangai</item>
+        <item>Kishor Kumar (Lab)</item>
+        <item>Kuldeep Chaurasia</item>
+        <item>Kunal Ahuja</item>
+        <item>Lalita Chaudhary</item>
+        <item>Lokesh K Sharma</item>
+        <item>Madhuri Gupta</item>
+        <item>Mahesh Kumawat</item>
+        <item>Mahima</item>
+        <item>Mala Saraswat</item>
+        <item>Manish Raj</item>
+        <item>Manish Sharma</item>
+        <item>Mithlesh Kumar</item>
+        <item>MOHD MOHSIN ALI (PHD)</item>
+        <item>Mohd Omar Farooq (STA)</item>
+        <item>Mohd. Abuzar Sayeed</item>
+        <item>Mohit Agarwal</item>
+        <item>Mohit Sajwan</item>
+        <item>Monika Srivastava</item>
+        <item>Mukund Pratap Singh</item>
+        <item>Nandini Garg (STA)</item>
+        <item>Narveen (PHD)</item>
+        <item>Navneet Pratap Singh</item>
+        <item>Neelam Chaudhary</item>
+        <item>Neeraj</item>
+        <item>Neha Garg</item>
+        <item>Nirbhay Tagore</item>
+        <item>Nitin Arvind Shelke</item>
+        <item>Ojasva Chaarag (STA)</item>
+        <item>Parth Pandey (STA)</item>
+        <item>Poulomi Sadhukhan</item>
+        <item>Prabhishek Singh</item>
+        <item>Prachi Maheshwari</item>
+        <item>Prakhar Consul (PHD)</item>
+        <item>Pratik Shrivastava</item>
+        <item>Pratima Sharma</item>
+        <item>Preeti Raj Verma (PHD)</item>
+        <item>Pritam Rani (PHD)</item>
+        <item>Prity Rani (PHD)</item>
+        <item>Priyadharshini B</item>
+        <item>Priyam Srivastava (STA)</item>
+        <item>RACHIT JAIN (STA)</item>
+        <item>Rachna Agarwal</item>
+        <item>Rachna Soni (PHD)</item>
+        <item>Rahul Mukherjee</item>
+        <item>Rajat Chaudhary</item>
+        <item>Rajesh Kumar Shrivastava</item>
+        <item>Rajiv Kumar</item>
+        <item>Rajnish Kumar Chaturvedi</item>
+        <item>Rama Kamineni</item>
+        <item>Rashmi Kumari</item>
+        <item>Reeti Bajpai</item>
+        <item>Richa Bajaj</item>
+        <item>Richa Golash</item>
+        <item>Richa1</item>
+        <item>Rishi dutt Sharma</item>
+        <item>Riti Kushwaha</item>
+        <item>Rohan Katti</item>
+        <item>Rohit Kumar Kaliyar</item>
+        <item>Rohit Kumar Sachan</item>
+        <item>ROLEX SARASWAT (STA)</item>
+        <item>Sachi Mall</item>
+        <item>Sachin Gupta</item>
+        <item>SAIRAM MAMIDI (STA)</item>
+        <item>Sanchali Das</item>
+        <item>Sangeeta Kumari</item>
+        <item>SANJANA SINGLA (STA)</item>
+        <item>Sarika Goyal</item>
+        <item>Sashank Bopanna (STA)</item>
+        <item>Saurabh Kumar Shrivastava</item>
+        <item>Saurabh Rana</item>
+        <item>Sawan Rai</item>
+        <item>Seema Jogad</item>
+        <item>Shakti Sharma</item>
+        <item>Shamindra Nath Sanyal</item>
+        <item>SHAURYA PANWAR (STA)</item>
+        <item>Shivam Chaudhary (PHD)</item>
+        <item>Shivani Goel</item>
+        <item>Shivani Tufchi</item>
+        <item>Shubhangi Rastogi</item>
+        <item>Shweta Dishwar</item>
+        <item>Sidharth Quamara</item>
+        <item>Simar Preet Singh</item>
+        <item>Simranjit Singh</item>
+        <item>SIREESHA VADLAMUDI (PHD)</item>
+        <item>Sneha Upadhyay</item>
+        <item>Sonal Kukreja</item>
+        <item>Soumyendu Roy</item>
+        <item>Souvik Roy</item>
+        <item>Subhadeep Mondal</item>
+        <item>Suchi Kumari</item>
+        <item>Sudhanshu Gupta</item>
+        <item>Sudip Chatterjee</item>
+        <item>Suketa Mehta (STA)</item>
+        <item>Sukriti Garg</item>
+        <item>Sumit Badotra</item>
+        <item>Suneet Kumar Gupta</item>
+        <item>SUYASH MATANHELIA (STA)</item>
+        <item>Swarup Panda</item>
+        <item>Tanisha Sharma (STA)</item>
+        <item>Tanveer Ahmed</item>
+        <item>Tapas Badal</item>
+        <item>Tarun Agrawal</item>
+        <item>Tarun Kumar Sharma</item>
+        <item>Tej Bahadur Chandra</item>
+        <item>Umesh Gupta</item>
+        <item>Umeshkanta Singh</item>
+        <item>UTKARSH ATUL (STA)</item>
+        <item>Varsha-Maths-PhD</item>
+        <item>VIBHAV RANJAN (PHD)</item>
+        <item>Vijaya (Guest Faculty)</item>
+        <item>Vikas Chauhan</item>
+        <item>Vikash K. Jain</item>
+        <item>Vimal Baghel</item>
+        <item>Vineet Vishnoi</item>
+        <item>Vinod Shastri</item>
+        <item>Vipin</item>
+        <item>Vishal Gembali (STA)</item>
+        <item>Vishal Sharma</item>
+        <item>Vishal Srivastava</item>
+        <item>Vivek Mehta</item>
+        <item>Yogesh Pal</item>
+    </string-array>
+</resources>
