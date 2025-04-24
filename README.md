@@ -1,12 +1,14 @@
+
 # BUGO
 
-**BUGO** is a Java-based application designed to [briefly describe the main purpose, e.g., "simplify bug tracking and management for software projects"].  
-This project is structured using Gradle for easy dependency management and build automation.
+**BUGO** is a Java-based application designed specifically for students of BU.  
+It helps students easily access their class schedules, personal timetables, faculty timetables, notifications, and other essential academic information—all in one place.
 
 ---
 
 ## Table of Contents
 
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -14,6 +16,17 @@ This project is structured using Gradle for easy dependency management and build
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+
+---
+
+## Features
+
+- 📅 **Personal Timetable:** Instantly view your daily and weekly class schedules.
+- 🏫 **Class Finder:** Quickly locate your classrooms and lecture halls on campus.
+- 👨‍🏫 **Faculty Timetables:** Access up-to-date faculty schedules for reference and appointments.
+- 🔔 **Notifications:** Receive important university announcements and reminders.
+- 🗂️ **Centralized Information:** All your academic essentials in one easy-to-use application.
+- ✨ **User-Friendly Interface:** Designed for quick navigation and accessibility.
 
 ---
 
@@ -49,15 +62,16 @@ This project is structured using Gradle for easy dependency management and build
 
 ## Usage
 
-After building and running the application:
-
-- [Describe how users interact with the app. For example:]
-- Launch the application using the command above.
-- Follow the on-screen instructions to [add/view bugs, manage projects, etc.].
-- For command-line options, run:
-  ```bash
-  java -jar build/libs/bugo.jar --help
-  ```
+- **Launch the Application:**  
+  Run the application using the command above.
+- **Sign In:**  
+  Enter your BU credentials to access personalized features.
+- **Navigate:**  
+  - Check your timetable and class locations.
+  - Browse faculty timetables.
+  - View the latest notifications and announcements.
+- **Stay Updated:**  
+  Receive real-time notifications about schedule changes and important events.
 
 ---
 
@@ -78,8 +92,8 @@ BUGO/
 
 ## Configuration
 
-- Configuration files can be found in the `app/resources/` directory.
-- To customize settings, edit the appropriate `.properties` or `.yml` files.
+- Configuration files, if any, can be found in the `app/resources/` directory.
+- To customize settings (such as notification preferences), edit the relevant configuration files.
 
 ---
 
@@ -99,7 +113,7 @@ Please check for open issues before starting major work.
 
 ## License
 
-View [License](License)
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -108,3 +122,7 @@ View [License](License)
 - **Author:** Dasoam
 - **GitHub:** [github.com/Dasoam/BUGO](https://github.com/Dasoam/BUGO)
 - For questions or support, please open an issue in the repository.
+
+---
+
+*BUGO is built to make campus life easier for every BU student. Stay organized, stay informed!*
