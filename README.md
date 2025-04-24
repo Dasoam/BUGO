@@ -7,7 +7,6 @@ This project is structured using Gradle for easy dependency management and build
 
 ## Table of Contents
 
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -15,16 +14,6 @@ This project is structured using Gradle for easy dependency management and build
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-
----
-
-## Features
-
-- [ ] Feature 1: [Short description]
-- [ ] Feature 2: [Short description]
-- [ ] Feature 3: [Short description]
-- Intuitive user interface
-- Easy installation and setup
 
 ---
 
